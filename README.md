@@ -1,5 +1,7 @@
 # Windows 11 Debloater 🚀
 
+Updated branch : **https://github.com/teeotsa/windows-11-debloat/tree/new**
+
 Discord Link (if you have any issues) : **https://discord.gg/JtMvqaNR5V**
 
 You should know this before running this script : 
